@@ -5,6 +5,8 @@
 Um portfólio de apresentação profissional, criado usando linguagem de marcação HTML5 e estilização com CSS3. 
 Desenvolvido durante a imersão da Cubos Academy.
 
+Confira a página no GitHub pages [Clicando aqui!](https://miisantos.github.io/PortfolioPessoal/)
+
 ---
 
 ## 📍 Como utilizar o código?
